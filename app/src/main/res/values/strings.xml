@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string name="welcome">This app lets you fill in the gaps in a pre-written story. You will not be able to see the whole story until all missing words are given. Let\'s get started!</string>
+    <string name="fillin">Fill in the words!</string>
+</resources>
